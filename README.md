@@ -1,6 +1,6 @@
 # Hi, I'm Rohan 👋
 
-### 🎓 Final Year CS Student | 🧠 Learning DSA | 🛠️ Building Web & Web3 Projects
+### 🎓 Final Year CS Student | 🧠 Grinding DSA | 🛠️ Building Web & Web3 Projects
 
 Hey there! I'm Rohan — a curious learner and builder from India 🇮🇳  
 Currently focused on mastering **DSA in Java**, web development, and exploring how to combine **AI + Blockchain** to build projects that matter.  
