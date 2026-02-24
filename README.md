@@ -2,13 +2,7 @@
 
 ###  Building Web & Web3 Projects
 
-Hey there! I'm Rohan — a curious learner and builder 
-Currently focused on mastering **DSA**, **web development**, and exploring how to combine **AI + Blockchain** to build projects that matter.  
-
-- Built a blockchain-based projects.
-- Aiming for a role as a **Software Engineer** or **Blockchain Developer**  
-- Always learning, solving, and exploring new tech  
-  
+Hey there! I'm Rohan a curious learner and builder   
 ---
 
 ### 🧰 Tech Stack & Tools
